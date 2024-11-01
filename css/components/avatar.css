@@ -1,0 +1,18 @@
+.testimonial-card {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    width: 150px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.testimonial-card img {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.testimonial-card p {
+    padding: 10px;
+}
